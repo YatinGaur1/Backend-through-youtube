@@ -1,0 +1,20 @@
+{
+  "name": "lecture5",
+  "version": "1.0.0",
+  "description": "Ecommerce and hospital management data modelling",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "data",
+    "modeling"
+  ],
+  "author": "yatin gaur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  }
+}

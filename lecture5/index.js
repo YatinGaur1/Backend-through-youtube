@@ -1,0 +1,1 @@
+console.log("data modelling of ecommerce and hospital management")
